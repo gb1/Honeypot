@@ -3,5 +3,5 @@ HoneyBot
 
 to run:
 
-*gradle build
-*gradle run
+* gradle build
+* gradle run
