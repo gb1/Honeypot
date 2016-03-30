@@ -1,4 +1,7 @@
+HoneyBot
+==========
+
 to run:
 
-gradle build
-greadle run
+*gradle build
+*gradle run
